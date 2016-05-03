@@ -1,3 +1,3 @@
 # mocha-istanbul-sails-sass
 
-a [Sails](http://sailsjs.org) application
+Running tests and code coverage in SailsJS with SaSS.
