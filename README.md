@@ -1,3 +1,5 @@
 # mocha-istanbul-sails-sass
 
-Running tests and code coverage in SailsJS with SaSS.
+Unit test SailsJS with Mocha and generate code coverage with Istanbul
+
+Source: https://blog.sergiocruz.me/unit-test-sailsjs-with-mocha-and-instanbul-for-code-coverage/
